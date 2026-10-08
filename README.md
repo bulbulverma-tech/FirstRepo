@@ -1,2 +1,3 @@
 # FirstRepo
-This is mt first Git Repo
+This is my first Git Repo.
+Author - Bulbul Verma
